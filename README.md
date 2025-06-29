@@ -3,6 +3,7 @@
 🎓 I'm currently pursuing a Bachelor's degree in **Computer Engineering** at **UniNa**.
 
 💻 I'm passionate about **cybersecurity** and fascinated by the potential of **artificial intelligence**.
+
 I learn best by doing — working on real, hands-on projects is how I truly grow and improve.
 
 ---
