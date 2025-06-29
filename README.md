@@ -51,7 +51,6 @@ I learn best by doing — working on real, hands-on projects is how I truly grow
 ## 🔗 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrocioffi007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alessandro-cioffi](https://www.linkedin.com/in/alessandro-cioffi-012159372/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-cioffi-012159372/)
 📫 *Feel free to explore my repositories or reach out for collaboration!*
 
